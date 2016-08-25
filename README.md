@@ -6,5 +6,11 @@
 * [A Neighborhood of Infinity: Profunctors in Haskell](http://blog.sigfpe.com/2011/07/profunctors-in-haskell.html)
 * [Categories for Programmers: Functoriality](https://bartoszmilewski.com/2015/02/03/functoriality/)
 
+## Haskell
+
+### Error handling
+* [Inside 736-131: 8 ways to report errors in Haskell revisited](http://blog.ezyang.com/2011/08/8-ways-to-report-errors-in-haskell-revisited/)
+* [School of Haskell: Error Handling](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling)
+
 ## Misc
 * http://www.mathtube.org/lecture/video/univalence-new-principle-logic
