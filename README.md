@@ -13,4 +13,5 @@
 * [School of Haskell: Error Handling](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling)
 
 ## Misc
-* [Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
+* [Steve Awodey
+: Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
