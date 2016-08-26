@@ -54,6 +54,7 @@ Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.p
 * [Baez and Stay, 2006: Physics, Topology, Logic and Computation:
 A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)
 * [Beaz and Lauda, 2009: A Prehistory of n-Categorical Physics](http://arxiv.org/abs/0908.2469)
+
 ## Univalent foundations
 * [Steve Awodey
 : Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
