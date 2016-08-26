@@ -15,6 +15,7 @@
 
 * [Haskell Wiki: Tying the Knot](https://wiki.haskell.org/Tying_the_Knot)
 * [The Monad.Reader: Practical Graph Handling](https://wiki.haskell.org/The_Monad.Reader/Issue5/Practical_Graph_Handling)
+* [mail.haskell.org: Representing cyclic data structures efficiently in Haskell](https://mail.haskell.org/pipermail/haskell-cafe/2003-July/004640.html)
 * [Hackage: Data.Graph](https://hackage.haskell.org/package/containers-0.5.7.1/docs/Data-Graph.html)
 * [Ramsey and Dias: An Applicative Control-Flow Graph
 Based on Huet’s Zipper, 2005](http://www.cs.tufts.edu/~nr/pubs/zipcfg.pdf)
