@@ -23,16 +23,17 @@ Based on Huet’s Zipper, 2005](http://www.cs.tufts.edu/~nr/pubs/zipcfg.pdf)
 * [Ramsey, Dias and Peyton Jones, 2010: Hoopl: A Modular, Reusable Library for
 Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.pdf)
 
-### Probabilistic Programming
-* [Scibior, Ghahramani and Gordon, 2015: Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
-* [Adams and Jacobs 2015:A Type Theory for Probabilistic and Bayesian Reasoning](http://arxiv.org/abs/1511.09230)
-
 ### Misc
 * [Meijer, Fokkinga and Paterson, 1991: Functional Programming with Bananas, Lenses,
 Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 * [Conor McBride, 2007: Clowns to the Left of me, Jokers to the Right
 Dissecting Data Structures](http://strictlypositive.org/CJ.pdf)
 
-## Misc
+### Probabilistic Programming
+* [Scibior, Ghahramani and Gordon, 2015: Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
+* [Adams and Jacobs 2015: A Type Theory for Probabilistic and Bayesian Reasoning](http://arxiv.org/abs/1511.09230)
+
+## Univalent foundations
 * [Steve Awodey
 : Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
+* [Homotopy Type Theory and Univalent Foundations](https://homotopytypetheory.org/book/)
