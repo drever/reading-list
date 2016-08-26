@@ -26,7 +26,7 @@ Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.p
 ### Misc
 * [Meijer, Fokkinga and Paterson, 1991: Functional Programming with Bananas, Lenses,
 Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
-* [Conor McBride: Clowns to the Left of me, Jokers to the Right
+* [Conor McBride, 2007: Clowns to the Left of me, Jokers to the Right
 Dissecting Data Structures](http://strictlypositive.org/CJ.pdf)
 
 ## Misc
