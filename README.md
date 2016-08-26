@@ -49,6 +49,11 @@ Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.p
 * [purely theoretical: So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 * [Danny Gratzer: Learn type theory](http://jozefg.bitbucket.org/posts/2015-08-14-learn-tt.html)
 
+## Category theory
+* [Spivak, 2013: Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf)
+* [Baez and Stay, 2006: Physics, Topology, Logic and Computation:
+A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)
+* [Beaz and Lauda, 2009: A Prehistory of n-Categorical Physics](http://arxiv.org/abs/0908.2469)
 ## Univalent foundations
 * [Steve Awodey
 : Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
