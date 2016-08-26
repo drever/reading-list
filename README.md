@@ -1,5 +1,22 @@
 # reading-list
 
+## Applicative
+* [McBride and Paterson. : Idioms: applicative programming with effects](http://strictlypositive.org/Idiom.pdf)
+
+## Arrows
+* [Hughes 2004: Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf)
+* [haskell.org: Arrows: A General Interface to Computation](https://www.haskell.org/arrows)
+
+## Equivalences between arrows, monads and applicatives
+* [Lindley, Wadler and Yallop: Idioms are oblivious, arrows are meticulous,
+monads are promiscuous](http://homepages.inf.ed.ac.uk/wadler/papers/arrows-and-idioms/arrows-and-idioms.pdf)
+
+## Data structures
+* [Meijer, Fokkinga and Paterson, 1991: Functional Programming with Bananas, Lenses,
+Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
+* [Conor McBride, 2007: Clowns to the Left of me, Jokers to the Right
+Dissecting Data Structures](http://strictlypositive.org/CJ.pdf)
+
 ## Profunctors
 * [24 Days of Hackage: profunctors](https://ocharles.org.uk/blog/guest-posts/2013-12-22-24-days-of-hackage-profunctors.html)
 * [Phil Freeman: Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
@@ -23,13 +40,7 @@ Based on Huet’s Zipper, 2005](http://www.cs.tufts.edu/~nr/pubs/zipcfg.pdf)
 * [Ramsey, Dias and Peyton Jones, 2010: Hoopl: A Modular, Reusable Library for
 Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.pdf)
 
-### Misc
-* [Meijer, Fokkinga and Paterson, 1991: Functional Programming with Bananas, Lenses,
-Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
-* [Conor McBride, 2007: Clowns to the Left of me, Jokers to the Right
-Dissecting Data Structures](http://strictlypositive.org/CJ.pdf)
-
-### Probabilistic programming
+## Probabilistic programming
 * [Scibior, Ghahramani and Gordon, 2015: Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [Adams and Jacobs 2015: A Type Theory for Probabilistic and Bayesian Reasoning](http://arxiv.org/abs/1511.09230)
 
