@@ -11,6 +11,7 @@
 ### Error handling
 * [Inside 736-131: 8 ways to report errors in Haskell revisited](http://blog.ezyang.com/2011/08/8-ways-to-report-errors-in-haskell-revisited/)
 * [School of Haskell: Error Handling](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/10_Error_Handling)
+
 ### Graph representation
 
 * [Haskell Wiki: Tying the Knot](https://wiki.haskell.org/Tying_the_Knot)
