@@ -29,9 +29,14 @@ Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40
 * [Conor McBride, 2007: Clowns to the Left of me, Jokers to the Right
 Dissecting Data Structures](http://strictlypositive.org/CJ.pdf)
 
-### Probabilistic Programming
+### Probabilistic programming
 * [Scibior, Ghahramani and Gordon, 2015: Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [Adams and Jacobs 2015: A Type Theory for Probabilistic and Bayesian Reasoning](http://arxiv.org/abs/1511.09230)
+
+## Type theory
+* [purely theoretical: A Tutorial on the Curry-Howard Correspondence](http://purelytheoretical.com/papers/ATCHC.pdf)
+* [purely theoretical: So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
+* [Danny Gratzer: Learn type theory](http://jozefg.bitbucket.org/posts/2015-08-14-learn-tt.html)
 
 ## Univalent foundations
 * [Steve Awodey
