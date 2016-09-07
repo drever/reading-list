@@ -43,6 +43,7 @@ Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.p
 ### Type-level foo
  * [Dennis Gosnell: Servant, Type Families, and Type-level Everything](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
  * [Oliver Charles: Working with postgresql-simple with generics-sop](https://ocharles.org.uk/blog/posts/2014-08-07-postgresql-simple-generic-sop.html)
+ * 
 ## Probabilistic programming
 * [Scibior, Ghahramani and Gordon, 2015: Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 * [Adams and Jacobs 2015: A Type Theory for Probabilistic and Bayesian Reasoning](http://arxiv.org/abs/1511.09230)
