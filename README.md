@@ -63,3 +63,6 @@ A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)
 * [Steve Awodey
 : Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
 * [Homotopy Type Theory and Univalent Foundations](https://homotopytypetheory.org/book/)
+
+# Blogs
+* [Sophie Hebden: Quantifying Occam](https://plus.maths.org/content/quantifying-occam)
