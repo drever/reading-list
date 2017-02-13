@@ -49,6 +49,7 @@ Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.p
 * [Adams and Jacobs 2015: A Type Theory for Probabilistic and Bayesian Reasoning](http://arxiv.org/abs/1511.09230)
 
 ## Type theory
+* [Philip Wadler: Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 * [purely theoretical: A Tutorial on the Curry-Howard Correspondence](http://purelytheoretical.com/papers/ATCHC.pdf)
 * [purely theoretical: So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 * [Danny Gratzer: Learn type theory](http://jozefg.bitbucket.org/posts/2015-08-14-learn-tt.html)
