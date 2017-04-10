@@ -62,6 +62,7 @@ A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf)
 * [Beaz and Lauda, 2009: A Prehistory of n-Categorical Physics](http://arxiv.org/abs/0908.2469)
 
 ## Univalent foundations
+* [Homotopical Patch Theory ](http://dlicata.web.wesleyan.edu/pubs/amlh14patch/amlh14patch.pdf)
 * [Steve Awodey
 : Univalence as a New Principle of Logic](http://www.mathtube.org/lecture/video/univalence-new-principle-logic)
 * [Homotopy Type Theory and Univalent Foundations](https://homotopytypetheory.org/book/)
