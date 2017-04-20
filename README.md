@@ -54,7 +54,7 @@ Dataflow Analysis and Transformation](http://www.cs.tufts.edu/~nr/pubs/hoopl10.p
 * [purely theoretical: So you want to learn type theory... but where to start? Here are some suggestions.](http://purelytheoretical.com/sywtltt.html)
 * [Danny Gratzer: Learn type theory](http://jozefg.bitbucket.org/posts/2015-08-14-learn-tt.html)
 * [Hedonistic learning: Quotient Types for Programmers](http://www.hedonisticlearning.com/posts/quotient-types-for-programmers.html)
-
+* [Philip Wadler: Theorems for free!](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)
 ## Category theory
 * [Spivak, 2013: Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf)
 * [Baez and Stay, 2006: Physics, Topology, Logic and Computation:
